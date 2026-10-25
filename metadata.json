@@ -1,0 +1,6 @@
+{
+  "name": "USB & Thunderbolt Cable Compatibility Calculator",
+  "description": "Calculate exact USB, USB4, and Thunderbolt cable specifications, bandwidth limits, passive/active lengths, and Power Delivery requirements for displays, docks, and workstation peripherals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
